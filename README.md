@@ -1,4 +1,4 @@
 AI----Russell-Norvig-A Modern Approach 
 ```
-Implementation of russell&norvig 
+Implementation code for russell&norvig problems
 `````
